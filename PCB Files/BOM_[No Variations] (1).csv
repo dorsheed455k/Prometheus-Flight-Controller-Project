@@ -1,0 +1,54 @@
+﻿,Name,Description,Designator,Part Number,Price,Qty
+,"10uF, 22uF, 1uF",Capacitor SMD 1206,"C1, C4, C5, C6, C8","Panasonic EEE-FK1C102SP, ",5.99,5
+,100nF,Capacitor SMD 0603,"C2, C11, C14, C15, C16, C21, C22, C23, C24, C25, C26, C29, C30, C32, C33, C35",,,16
+,100pF,Capacitor SMD 0603,"C3, C18",,,2
+,18pF,Capacitor SMD 0603,"C12, C13",,,2
+,4.7nF,Capacitor SMD 0603,C17,,,1
+,2u2,Capacitor SMD 0603,"C19, C20",,,2
+,22uF,Capacitor SMD 0603,"C27, C28",,,2
+,"14pF, 33pF, 100nF, 4.7pH, 3.3pF, 100uF, 10uF, 1.8pF, 100pF, 2.2uF, 47pF, 10nF",Capacitor SMD 0402,"C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C53, C54, C55, C56","Panasonic EEE-FK1C102SP, ",11.381,19
+,100nF,Capacitor SMD 0603,"C51, C52","Panasonic EEE-FK1C102SP, ",2.4,2
+,SS12,"Schottky Rectifier, 20 V, 1 A, -65 to 125 degC, 2-Pin DO-214AC, RoHS, Tape and Reel","D2, D6, D7","onsemi SS12, ",0.615,3
+,SK6805-EC15,RGB LED SMD Addressable,D4,OPSCO SK6805-EC15,,1
+,USBLC6-2SC6,Low-Capacitance ESD Protection USB,D5,,,1
+,D_TVS_BI_0603,Diode TVS / ESD Bidirectional 0603,"D8, D9","Littelfuse SP3420-04UTG, ",1.76,2
+,HSMG-C190,"LED Uni-Color Green, 52 mW, 20 mA, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel",DS1,Broadcom Avago HSMG-C190,0.28,1
+,TYPE-C-31-M-12,USB Type C Connector Horizontal SMT,J1,,,1
+,87224-3,CONN HEADER VERT 3POS 2.54MM,"J2, J3, J4","TE Connectivity 87224-3, ",1.308,3
+,691103110002,,"J7, J8, J9, J10, J13, J15","Wurth Electronics 691103110002, ",4.74,6
+,MEM2061-01-188-00-A,Micro SD Card Holder Push-Push SMD,J11,,,1
+,CON-SMA-EDGE-S,RF Connector SMA Female 50 Ohms 18 GHz PCB Edge Mount,J12,RF Solutions CON-SMA-EDGE-S,2.52,1
+,U.FL-R-SMT-1(10),"RF Connector, 1 Contact(s), Male, Board Mount, Surface Mount Terminal, Receptacle",J14,Hirose U.FL-R-SMT-1(10),0.898,1
+,IHLP2020BZER100M01,Fixed Inductors Commercial High Saturation Series 10uH 2.3A 199mΩ 20%,L1,Vishay Dale IHLP2020BZER100M01,0.6429,1
+,"100nH, 3.3nH, 6.2pH, 11nH, 22nH, 4.7nH, 27nH",Inductor SMD 0402,"L2, L3, L4, L5, L6, L7, L8, L9, L10",,,9
+,KPEG242,Piezo Electric devices,LS1,Kingstate KPEG242,1.65669,1
+,MAX-M10S-00B,"GNSS LCC RX, ROM, TCXO, LNA, SAW",MD1,u-blox MAX-M10S-00B,16.9,1
+,S2B-XH-A(LF)(SN),"Male Header, Pitch 2.5 mm, 1 x 2 Position, Height 6.1 mm, Tail Length 3.4 mm, -25 to 85 degC, RoHS, Bulk",P1,JST S2B-XH-A(LF)(SN),0.0664,1
+,AO3400A,MOSFET N-CH 30V 5.7A SOT23,"Q1, Q2, Q3, Q4","Alpha & Omega Semiconductor AO3400A, ",0.868,4
+,5.1K,Resistor SMD 0603,"R1, R2",,,2
+,157K,Resistor SMD 0603,R3,,,1
+,30K,Resistor SMD 0603,R4,,,1
+,68,Resistor SMD 0603,R5,,,1
+,10K,Resistor SMD 0603,"R6, R7, R12, R17, R20, R22, R24, R26, R27, R28, R29, R30, R31",,,13
+,10,"10 Ohm, 0.25 W",R8,* *,,1
+,0,Resistor SMD 0603,R9,,,1
+,4.7K,Resistor SMD 0603,"R10, R11, R13, R14",,,4
+,2.2K,Resistor SMD 0603,"R15, R16",,,2
+,150,Resistor SMD 0603,"R19, R21, R23, R25",,,4
+,"4.7K, 3.3K, 10K",Resistor SMD 0603,"R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43","* *, ",,12
+,33,Resistor SMD 0603,R44,,,1
+,SKRPANE010,Tactile Switch SMD SPST,"SW1, SW2",,,2
+,JS202011JCQN,SWITCH SLIDE DPDT 300MA 6V,SW3,ITT C&K JS202011JCQN,0.8,1
+,STM32F446RCT6,"RISC Microcontroller, 32-Bit, FLASH, CORTEX-M4F CPU, 180MHz, CMOS, PQFP64",U1,,,1
+,AP63200WU-7,Switching Regulator,U2,,,1
+,TLV1117LV33DCYR,"Single Output LDO, 1 A, Fixed 3.3 V Output, 2 to 5.5 V Input, 4-pin SOT-223 (DCY), -40 to 125 degC, Green (RoHS & no Sb/Br)",U3,Texas Instruments TLV1117LV33DCYR,0.22,1
+,BMP390,Digital Pressure Sensor SPI/I2C,U4,,,1
+,MX25R6435FZNIL0,"Flash, 16MX4, PDSO8",U5,Macronix MX25R6435FZNIL0,1.12,1
+,DRV8837DSGT,"Brush DC Motor Controller, 1.8A, PDSO8",U6,Texas Instruments DRV8837DSGT,0.277,1
+,BNO085,IMU Accel/gyro/mag I2C 32 Bit,U7,Hillcrest Laboratories BNO085,,1
+,SI4463-B1B-FMR,Manchester Encoder/Decoder,U8,Silicon Labs SI4463-B1B-FMR,1.994,1
+,SKY66423-11,RF Front End 860MHz ~ 930MHz General Purpose 16-MCM (3x3),U9,,,1
+,ADXL375BCCZ-RL7,"Analog Circuit, 1 Func",U10,Analog Devices ADXL375BCCZ-RL7,9.89,1
+,FA-12824.0000MF10Z-W3,"Crystal, 24 MHz, +/- 10 ppm, -20 to 75 degC, 4-Pin SMD, RoHS, Tape and Reel",Y1,Epson FA-12824.0000MF10Z-W3,1.01,1
+,830065253,830065253 WE-XTAL Quartz Crystal,Y2,Wurth Electronics 830065253,1.43,1
+,ABM10-30.000MHZ-E20-T,Crystal 30MHz ±20ppm 10pF SMD-4 2.5mm x 2mm,Y3,Abracon ABM10-30.000MHZ-E20-T,0.39,1
