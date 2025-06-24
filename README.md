@@ -5,7 +5,7 @@ The Promethus Flight Controller is an advanced board designed for avionics and t
 
 Block Diagram
 
-![image info](Images/L2_Rocketry_Certification_requirements.jpg)
+![image info](Images/L2 Rocketry Certification requirements.jpg)
 
 
 Theory
